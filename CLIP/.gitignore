@@ -1,0 +1,6 @@
+data/
+embeddings/*
+!embeddings/.gitkeep
+__pycache__/
+*.pyc
+*.log
